@@ -1,4 +1,3 @@
-
 scan_nonparametric = function(Lon,Lat,variable,simulations,
                               scan_prop = 0.3,type = "high",exact=F){
   

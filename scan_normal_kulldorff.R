@@ -1,4 +1,3 @@
-
 scan_normal_kulldorff = function(Lon,Lat,variable,simulations = 499,
                                  scan_prop = 0.3,type = "both"){
   

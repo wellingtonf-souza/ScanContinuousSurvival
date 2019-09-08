@@ -1,4 +1,3 @@
-
 scan_survival_kulldorff = function(Lon,Lat,time,
                                    cens,simulations = 499,
                                    scan_prop = 0.3,type = "both"){
